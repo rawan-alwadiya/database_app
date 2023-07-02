@@ -1,0 +1,21 @@
+{
+  "login_title": "أهلا بك مجددا",
+  "login_subtitle": "أدخل البريد و كلمة المرور",
+  "email": "البريد",
+  "password": "كلمة المرور",
+  "login": "تسجيل الدخول",
+  "language_title": "تغيير اللغة",
+  "language_subtitle": "اختر اللغة المناسبة",
+  "name": "الاسم",
+  "register": "تسجيل",
+  "register_title": "انشاء حساب جديد",
+  "register_subtitle": "أدخل بيانات الحساب الجديد",
+  "have_no_account": "ليس لديك حساب ؟",
+  "create_now": "انشىء الآن",
+  "error_data": "تأكد من صحه البيانات المدخلة",
+  "title": "العنوان",
+  "info": "الوصف",
+  "save": "حفظ",
+  "create":"انشاء",
+  "update": "تعديل"
+}

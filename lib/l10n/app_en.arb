@@ -1,0 +1,21 @@
+{
+  "login_title": "Welcome back...",
+  "login_subtitle": "Enter email & password",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "language_title": "Change language",
+  "language_subtitle": "Choose suitable language",
+  "name": "Name",
+  "register": "Register",
+  "register_title": "Register new account",
+  "register_subtitle": "Enter new account details",
+  "have_no_account": "Don't have an account ?",
+  "create_now": "Create now",
+  "error_data": "Enter correct data!",
+  "title": "Title",
+  "info": "Info",
+  "save": "Save",
+  "create":"Create",
+  "update": "Update"
+}
